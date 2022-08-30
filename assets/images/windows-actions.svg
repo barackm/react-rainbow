@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="52px" height="12px" viewBox="0 0 52 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>windows-actions</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="windows-actions" fill-rule="nonzero">
-            <circle id="Oval-Red" fill="#FF6159" cx="6" cy="6" r="6"></circle>
-            <circle id="Oval-Yellow" fill="#FFC12F" cx="26" cy="6" r="6"></circle>
-            <circle id="Oval-Green" fill="#29C941" cx="46" cy="6" r="6"></circle>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="12" version="1.1" viewBox="0 0 52 12"><title>windows-actions</title><desc>Created with Sketch.</desc><g id="components" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="windows-actions" fill-rule="nonzero"><circle id="Oval-Red" cx="6" cy="6" r="6" fill="#FF6159"/><circle id="Oval-Yellow" cx="26" cy="6" r="6" fill="#FFC12F"/><circle id="Oval-Green" cx="46" cy="6" r="6" fill="#29C941"/></g></g></svg>
